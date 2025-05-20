@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1001,
+        
+        "playes" : {
+            "A1" : "thomas",
+            "A2" : "james",
+            "B1" : "jacob",
+            "B2" : "michael"
+        },
+        "Score" : {
+            "A" : 25,
+            "B" : 21
+        },
+        "WinnerTeam" : true
+    },
+    {
+        "id" : 1002,
+        
+        "playes" : {
+            "A1" : "A",
+            "A2" : "B",
+            "B1" : "C",
+            "B2" : "D"
+        },
+        "Score" : {
+            "A" : 25,
+            "B" : 18
+        },
+        "WinnerTeam" : true
+    }
+]
