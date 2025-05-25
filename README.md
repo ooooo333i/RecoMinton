@@ -1,2 +1,2 @@
 # RecoMinton
-## Badminton Score Board Watch App
+Badminton Score Board Watch App
